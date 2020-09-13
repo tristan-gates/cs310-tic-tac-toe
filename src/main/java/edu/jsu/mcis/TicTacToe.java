@@ -18,7 +18,7 @@ public class TicTacToe {
                 width = Integer.parseInt(args[0]);
             }
             catch(NumberFormatException e) {}
-            
+        
         }
         
         /* Create Controller */
